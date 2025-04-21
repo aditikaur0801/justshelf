@@ -171,7 +171,6 @@ Password: admin123
 If you encounter any issues or need help, please:
 1. Check the issues section on GitHub
 2. Create a new issue with detailed information about your problem
-3. Contact the maintainer at [your-email@example.com]
 
 ## 📄 License
 
